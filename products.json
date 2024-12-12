@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Wireless Earbuds",
+        "description": "Compact and high-quality sound with noise cancellation."
+    },
+    {
+        "name": "Smartphone Stand",
+        "description": "Adjustable stand compatible with all phone sizes."
+    },
+    {
+        "name": "Gaming Mouse",
+        "description": "Ergonomic design with customizable RGB lighting."
+    },
+    {
+        "name": "Laptop Backpack",
+        "description": "Water-resistant bag with multiple compartments for laptops up to 15 inches."
+    },
+    {
+        "name": "Portable Charger",
+        "description": "10,000mAh power bank with fast charging capabilities."
+    },
+    {
+        "name": "Bluetooth Speaker",
+        "description": "Compact speaker with deep bass and long battery life."
+    },
+    {
+        "name": "Digital Watch",
+        "description": "Multi-functional watch with heart rate monitoring and GPS."
+    },
+    {
+        "name": "Smart Thermostat",
+        "description": "Energy-efficient thermostat compatible with smart home systems."
+    },
+    {
+        "name": "Noise-Canceling Headphones",
+        "description": "Over-ear headphones with superior sound quality and ANC."
+    },
+    {
+        "name": "LED Desk Lamp",
+        "description": "Dimmable lamp with adjustable arm and touch controls."
+    },
+    {
+        "name": "Fitness Tracker",
+        "description": "Tracks steps, calories, and sleep with a sleek design."
+    },
+    {
+        "name": "Electric Kettle",
+        "description": "1.5-liter capacity with automatic shut-off and boil-dry protection."
+    },
+    {
+        "name": "Standing Desk",
+        "description": "Height-adjustable desk for comfortable working positions."
+    },
+    {
+        "name": "Robot Vacuum",
+        "description": "Smart vacuum cleaner with WiFi connectivity and scheduling."
+    },
+    {
+        "name": "Action Camera",
+        "description": "Waterproof camera with 4K video recording and wide-angle lens."
+    }
+]
